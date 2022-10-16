@@ -1,0 +1,12 @@
+.title{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.watch-users{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 20px
+}
